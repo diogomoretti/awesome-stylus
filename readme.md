@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/diogomoretti/awesome-stylus/master/logo.svg?token=ACuKNLB3udScpC1aEF3m6cIpCOdYv_Sxks5YUH4fwA%3D%3D" alt="Awesome Stylus">
+# ![awesome-stylus](logo.svg)
 
 # Awesome Stylus 
 
