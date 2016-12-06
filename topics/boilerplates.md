@@ -8,6 +8,7 @@
 - [Reveal Boilerplate](https://github.com/ythecombinator/reveal-boilerplate)
 - [Stylus Boilerplate](https://github.com/srsgores/stylus-boilerplate)
 - [Slush Ixqueleto](http://diogomoretti.github.io/slush-ixqueleto)
+- [Light Boilerplate](https://github.com/Cleysonlb/Light-Boilerplate)
 
 ---
 [Back to Home](/awesome-stylus)
