@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/20948372/f4cc4866-bbfa-11e6-83f2-4128f051fc98.png" alt="awesome-stylus"></p>
+<p align="center"><img src="logo.svg" alt="awesome-stylus"></p>
 
 # Awesome Stylus 
 
