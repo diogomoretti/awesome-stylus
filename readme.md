@@ -11,6 +11,5 @@
   - [Boilerplates](topics/boilerplates.md)
   - [Documentations](topics/documentations.md)
   - [Grids](topics/grids.md)
-  - [Media Queries](topics/media-queries.md)
-  - [Mixins](topics/mixins.md) 
-  - [Sprites](topics/sprites.md)
+  - [Libraries](topics/libraries.md)
+  - [Mixins](topics/mixins.md)  
