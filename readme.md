@@ -1,5 +1,5 @@
-<img src="https://rawgit.com/diogomoretti/awesome-stylus/master/logo.svg" alt="Awesome SVG">
-=======
+<img src="https://rawgit.com/diogomoretti/awesome-stylus/master/logo.svg" alt="Awesome Stylus">
+
 # Awesome Stylus 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
