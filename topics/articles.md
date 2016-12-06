@@ -15,4 +15,4 @@
 - [Write CSS like you're in the future with Stylus](http://jgn.me/blog/css-like-you-re-in-the-future/)
 
 ---
-[Back to Home](/awesome-stylus)
+[Back to Home](/)
