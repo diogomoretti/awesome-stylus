@@ -15,6 +15,7 @@
 - [Sass vs. Stylus: Who Wins the Minimal Syntax Battle?](https://designshack.net/articles/css/sass-vs-stylus-who-wins-the-minimal-syntax-battle/)
 - [Will Stylus replace CSS in the future?](https://www.quora.com/Will-Stylus-replace-CSS-in-the-future)
 - [Why I Choose Stylus (And You Should Too)](https://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412)
+- [Why Stylus fit better my needs](http://daker.me/2013/07/why-stylus-fit-better-my-needs.html)
 - [Write CSS like you're in the future with Stylus](http://jgn.me/blog/css-like-you-re-in-the-future/)
 
 ---
