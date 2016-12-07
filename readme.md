@@ -37,4 +37,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](contr
 
 ## License
 
-[MIT License](https://github.com/diogomoretti/MITLicense)
+[MIT License](license)
