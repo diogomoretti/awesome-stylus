@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" alt="awesome-stylus"></p>
+# ![awesome-stylus](https://cdn.rawgit.com/diogomoretti/awesome-stylus/logo.svg)
 
 # Awesome Stylus 
 
