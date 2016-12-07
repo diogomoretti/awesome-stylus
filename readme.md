@@ -20,9 +20,9 @@
 
 ## Thanks to...
 
-* [TJ Holowaychuk](https://github.com/tj), for create the Stylus =]
-* [Willian Justen](https://github.com/willianjusten), for create the [awesome-svg](https://github.com/willianjusten/awesome-svg) and inspire us
-* [Diogo Moretti](https://github.com/diogomoretti), [Felipe Fialho](https://github.com/LFeh) and [Fernando Daciuk](https://github.com/fdaciuk) for initialize this project with content
+* [TJ Holowaychuk](https://github.com/tj), for creating the Stylus =]
+* [Willian Justen](https://github.com/willianjusten), for creating the [awesome-svg](https://github.com/willianjusten/awesome-svg) and inspiring us
+* [Diogo Moretti](https://github.com/diogomoretti), [Felipe Fialho](https://github.com/LFeh) and [Fernando Daciuk](https://github.com/fdaciuk) for initializing this project with content
 * [All Contributors](https://github.com/diogomoretti/awesome-stylus/graphs/contributors)
 
 ## Contributing
