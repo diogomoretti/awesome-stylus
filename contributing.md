@@ -11,4 +11,5 @@ Your contributions are always welcome!
 * Add your links: `* [link-name](http://example.com/) - optional description`
 * If your link isn't in english, use (Flag) or (Lang) after the link
 * Check your spelling and grammar
+* Make sure everything is in alphabetical order `!important`
 * Send a Pull Request =]
