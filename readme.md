@@ -16,7 +16,8 @@
   - [Documentations](topics/documentations.md)
   - [Grids](topics/grids.md)
   - [Libraries](topics/libraries.md)
-  - [Mixins](topics/mixins.md)  
+  - [Mixins](topics/mixins.md)
+  - [Videos](topics/videos.md)
 
 ## Thanks to...
 
