@@ -2,6 +2,7 @@
 
 > Grids for Stylus 
 
+- [Gride](http://github.com/guuibayer/gride)
 - [Grider](http://diogomoretti.github.io/grider)
 - [Jeet](http://jeet.gs)
 - [LostGrid](https://github.com/peterramsing/lost)
