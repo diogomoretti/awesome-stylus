@@ -8,6 +8,7 @@
 - [Compiling CSS using Stylus](http://www.clock.co.uk/blog/compiling-css-using-stylus-getting-started)
 - [Escrevendo CSS com Stylus](http://blog.da2k.com.br/2015/02/15/escrevendo-css-com-stylus/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
 - [Getting Started with Stylus](http://blog.teamtreehouse.com/getting-started-stylus)
+- [Getting To Know Stylus](https://www.sitepoint.com/getting-to-know-stylus/)
 - [Por que usar Stylus?](http://nomadev.com.br/por-que-usar-stylus/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
 - [Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores](http://tableless.com.br/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
 - [Sass vs. LESS vs. Stylus: Preprocessor Shootout](https://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320)
