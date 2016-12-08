@@ -6,4 +6,4 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Stylus_(stylesheet_language))
 
 ---
-[Back to Home](/awesome-stylus)
+[Back to Home](https://github.com/diogomoretti/awesome-stylus/)
