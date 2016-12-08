@@ -1,4 +1,4 @@
-# ![awesome-stylus](https://cdn.rawgit.com/diogomoretti/awesome-stylus/logo.svg)
+# ![awesome-stylus](https://rawgit.com/diogomoretti/awesome-stylus/master/logo.svg)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
