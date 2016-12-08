@@ -22,4 +22,4 @@
 - [Write CSS like you're in the future with Stylus](http://jgn.me/blog/css-like-you-re-in-the-future/)
 
 ---
-[Back to Home](/)
+[Back to Home](https://github.com/diogomoretti/awesome-stylus)
