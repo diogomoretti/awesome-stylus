@@ -9,6 +9,7 @@
 - [Stylus Boilerplate](https://github.com/srsgores/stylus-boilerplate)
 - [Slush Ixqueleto](http://diogomoretti.github.io/slush-ixqueleto)
 - [Light Boilerplate](https://github.com/Cleysonlb/Light-Boilerplate)
+- [ITCSS Boilerplate](https://github.com/ggviana/itcss-boilerplate)
 
 ---
 [Back to Home](https://github.com/diogomoretti/awesome-stylus/)
