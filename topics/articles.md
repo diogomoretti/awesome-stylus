@@ -15,6 +15,7 @@
 - [Sass v Less v Stylus: The pros and cons](https://www.gadgetdaily.xyz/sass-v-less-v-stylus-the-pros-and-cons/)
 - [Sass vs. Stylus: Who Wins the Minimal Syntax Battle?](https://designshack.net/articles/css/sass-vs-stylus-who-wins-the-minimal-syntax-battle/)
 - [Stylus CSS Preprocessor](http://www.adcisolutions.com/knowledge/stylus-css-preprocessor)
+- [Stylus: Expressive, dynamic, robust CSS Preprocessor](http://zurb.com/forrst/posts/Stylus_Expressive_dynamic_robust_CSS_Preproce-xtr)
 - [Stylus et les préprocesseurs CSS (en guise d’introduction)](https://www.lesintegristes.net/2012/11/02/stylus-et-les-preprocesseurs-css-en-guise-dintroduction/) ![france flag](https://cloud.githubusercontent.com/assets/3603793/20973562/32de56c8-bc80-11e6-8cf1-d91ca958dcfd.png)
 - [Stylus, Jeet and Rupture - how we structure our CSS](https://milktop.co.uk/articles/stylus-jeet-and-rupture-how-we-structure-our-css)
 - [Will Stylus replace CSS in the future?](https://www.quora.com/Will-Stylus-replace-CSS-in-the-future)
