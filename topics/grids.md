@@ -7,4 +7,4 @@
 - [LostGrid](https://github.com/peterramsing/lost)
 
 ---
-[Back to Home](/awesome-stylus)
+[Back to Home](https://github.com/diogomoretti/awesome-stylus)
