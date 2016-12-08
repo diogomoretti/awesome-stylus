@@ -11,4 +11,4 @@
 - [Light Boilerplate](https://github.com/Cleysonlb/Light-Boilerplate)
 
 ---
-[Back to Home](/awesome-stylus)
+[Back to Home](https://github.com/diogomoretti/awesome-stylus/)
