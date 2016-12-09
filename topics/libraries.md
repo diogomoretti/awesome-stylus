@@ -1,6 +1,6 @@
 # Libraries
 
-> Libraries for Stylus 
+> :books: Libraries for Stylus 
 
 - [FlexBox Stylus](https://github.com/lswest/flexbox-stylus)
 - [Kouto Swiss](http://kouto-swiss.io)
