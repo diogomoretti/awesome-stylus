@@ -1,6 +1,6 @@
 # Boilerplates
 
-> Boilerplates using Stylus 
+> 🅱️ Boilerplates using Stylus 
 
 - [Boostrap Stylus](https://github.com/maxmx/bootstrap-stylus)
 - [ITCSS Boilerplate](https://github.com/ggviana/itcss-boilerplate)
