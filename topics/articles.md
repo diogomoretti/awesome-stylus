@@ -1,6 +1,6 @@
 # Articles
 
-> Articles about Stylus
+> :pencil2: Articles about Stylus
 
 - [Analisando o código Stylus de um projeto](http://tableless.com.br/iniciando-com-o-pre-processador-stylus/) 🇧🇷
 - [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) 
