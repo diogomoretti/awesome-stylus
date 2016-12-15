@@ -1,6 +1,6 @@
 # Documentations
 
-> Documentations about Stylus 
+> :notebook_with_decorative_cover: Documentations about Stylus 
 
 - [Cheatsheet for Stylus](http://ricostacruz.com/cheatsheets/stylus.html)
 - [Stylus](http://stylus-lang.com/)

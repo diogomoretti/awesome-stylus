@@ -1,6 +1,6 @@
 # Grids
 
-> Grids for Stylus 
+> :hash: Grids for Stylus 
 
 - [Gride](http://github.com/guuibayer/gride)
 - [Grider](http://diogomoretti.github.io/grider)
