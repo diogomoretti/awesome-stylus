@@ -4,6 +4,7 @@
 
 - [Gride](http://github.com/guuibayer/gride)
 - [Grider](http://diogomoretti.github.io/grider)
+- [Gridus](https://github.com/thiamsantos/gridus)
 - [Jeet](http://jeet.gs)
 - [LostGrid](https://github.com/peterramsing/lost)
 - [Semantic.gs](https://github.com/tylertate/semantic.gs)
