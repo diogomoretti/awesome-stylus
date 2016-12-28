@@ -1,6 +1,8 @@
 # ![awesome-stylus](https://rawgit.com/diogomoretti/awesome-stylus/master/logo.svg)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![license](https://img.shields.io/github/license/diogomoretti/awesome-stylus.svg)](./license.md)
+[![GitHub contributors](https://img.shields.io/github/contributors/diogomoretti/awesome-stylus.svg)](https://github.com/diogomoretti/awesome-stylus/graphs/contributors)
 
 > A curated list of Stylus. The main idea is that everyone can contribute here, so we can center all the informations about Stylus and keep up-to-date.
 
