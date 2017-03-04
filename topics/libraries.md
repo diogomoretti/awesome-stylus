@@ -2,6 +2,7 @@
 
 > :books: Libraries for Stylus 
 
+- [Bulma Stylus](https://github.com/groenroos/bulma-stylus)
 - [FlexBox Stylus](https://github.com/lswest/flexbox-stylus)
 - [Kouto Swiss](http://kouto-swiss.io)
 - [Mantis Querist](https://github.com/mantis-stack/mantis-querist)
