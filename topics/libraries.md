@@ -12,6 +12,7 @@
 - [Rupture](http://jescalan.github.io/rupture)
 - [SASS 2 Stylus](https://github.com/mojotech/sass2stylus)
 - [Stylus Loader](https://github.com/shama/stylus-loader)
+- [Stylus Native Loader](https://github.com/slightlyfaulty/stylus-native-loader)
 - [Stylus PHP](https://github.com/AustP/Stylus.php)
 - [Stylus Spriting](https://github.com/egermano/stylus-spriting)
 
